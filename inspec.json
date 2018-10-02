@@ -1,0 +1,12 @@
+{
+    "reporter" : {
+        "automate" : {
+            "stdout" : "false",
+            "url" : "https://automate.automate-demo.com/data-collector/v0",
+            "token" : "KeMkiT3fOeR3-1w3_V2uJRTI1Rg=",
+            "insecure" : true,
+            "node_name" : "Anthony2",
+            "environment" : "dev"
+        }
+    }
+}
