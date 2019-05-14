@@ -6,6 +6,7 @@
             "token" : "KeMkiT3fOeR3-1w3_V2uJRTI1Rg=",
             "insecure" : true,
             "node_name" : "Anthony2",
+            "node_uuid" : "anthony2-1234",
             "environment" : "dev"
         }
     }
